@@ -5,18 +5,18 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/joshex150/Portfolio-master?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/joshex150/Portfolio-master?color=red&logo=github&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/joshex150/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/joshex150/Portfolio?color=red&logo=github&style=for-the-badge)
 
 </center>
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [joshex150](https://github.com/Joshex150/Portfolio-master). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [joshex150](https://github.com/Joshex150/Portfolio). Thanks!
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/joshex150/Portfolio-master/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/joshex150/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/joshex150/Portfolio-master/issues">Request Feature</a>
+    <a href="https://github.com/joshex150/Portfolio/issues">Request Feature</a>
 </h3>
 
 ## Built With
