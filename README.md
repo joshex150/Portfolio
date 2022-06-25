@@ -1,4 +1,4 @@
-# Simple portfolio made using ReactJs and CSS
+# Simple portfolio made using React.Js and CSS
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [joshex150](https://github.com/Joshex150/Portfolio-master). Thanks!
 
