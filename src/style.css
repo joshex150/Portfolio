@@ -33,6 +33,23 @@ html {
     opacity: 0;
 }
 
+#preloader2 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 999999;
+    background-color: transparent;
+    background-image: url(./Assets/pre.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#preloader-none2 {
+    opacity: 0;
+}
+
 #no-scroll {
     overflow: hidden;
     height: 100vh;

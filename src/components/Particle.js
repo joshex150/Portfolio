@@ -14,7 +14,7 @@ function Particle() {
             },
           },
           line_linked: {
-            enable: false,
+            enable: true,
             opacity: 0.03,
           },
           move: {
@@ -41,7 +41,7 @@ function Particle() {
           },
           modes: {
             push: {
-              particles_nb: 1,
+              particles_nb: 3,
             },
           },
         },
