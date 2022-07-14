@@ -65,6 +65,7 @@ const Comments = ({ commentsUrl, currentUserId }) => {
       try {
         const res = await axios.get('https://geolocation-db.com/json/');
         if (res.data) {
+          var x =
           localStorage.setItem('ip', res.data.IPv4);
           setLoading(false);
           const ipAddress = localStorage.getItem('ip');

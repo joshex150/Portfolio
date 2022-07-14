@@ -1,8 +1,7 @@
 
-const x = window.localStorage.getItem("text")
-console.log(x)
 const dog = {
-    x
+    nan: 'ooo',
+    ban: 'iii'
 }
 
 const fs = require('fs')
